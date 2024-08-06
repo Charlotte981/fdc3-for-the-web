@@ -15,8 +15,7 @@ This is a minimal proof-of-concept for FDC3 For the Web.
 
     ```
     npm install
-    npm install --workspaces
-    npm run build --workspaces
+    npm run build
     cd packages/demo
     npm run dev
     ```
